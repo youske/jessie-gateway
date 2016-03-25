@@ -1,0 +1,11 @@
+node_modules/
+vendor/
+tests/
+
+
+*.swp
+*.lock
+*.lck
+*.*~
+*~
+.tag
